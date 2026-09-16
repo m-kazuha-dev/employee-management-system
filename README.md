@@ -53,7 +53,7 @@
 ## 起動方法 (Quick Start)
 1. GitHubからクローン
    ```bash
-   git clone https://github.com/m-kazuha-dev/saas-project-01.git
+   git clone https://github.com/m-kazuha-dev/employee-management-system.git
    ```
 2. Docker環境のビルドと起動
    ```bash
